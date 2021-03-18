@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVASE.iml" filepath="$PROJECT_DIR$/.idea/JAVASE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aa/aa.iml" filepath="$PROJECT_DIR$/aa/aa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_day01/java_day01.iml" filepath="$PROJECT_DIR$/java_day01/java_day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_day02/java_day02.iml" filepath="$PROJECT_DIR$/java_day02/java_day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_day03/java_day03.iml" filepath="$PROJECT_DIR$/java_day03/java_day03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_day04/java_day04.iml" filepath="$PROJECT_DIR$/java_day04/java_day04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_day05/java_day05.iml" filepath="$PROJECT_DIR$/java_day05/java_day05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_day06/java_day06.iml" filepath="$PROJECT_DIR$/java_day06/java_day06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_day07/java_day07.iml" filepath="$PROJECT_DIR$/java_day07/java_day07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_day08/java_day08.iml" filepath="$PROJECT_DIR$/java_day08/java_day08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_day09/java_day09.iml" filepath="$PROJECT_DIR$/java_day09/java_day09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_day10/java_day10.iml" filepath="$PROJECT_DIR$/java_day10/java_day10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_day11/java_day11.iml" filepath="$PROJECT_DIR$/java_day11/java_day11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_day12/java_day12.iml" filepath="$PROJECT_DIR$/java_day12/java_day12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_day13/java_day13.iml" filepath="$PROJECT_DIR$/java_day13/java_day13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_day14/java_day14.iml" filepath="$PROJECT_DIR$/java_day14/java_day14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_day14review/java_day14review.iml" filepath="$PROJECT_DIR$/java_day14review/java_day14review.iml" />
+    </modules>
+  </component>
+</project>
